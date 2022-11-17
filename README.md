@@ -5,10 +5,10 @@ This project is the final exam of the Web Developping course that aims to develo
 http://lilian-sauvade-clevercloud.io
 
 II - How to install and run the project :
-    - Project setup
+    1 - Project setup
 npm install
 
-    - Running the server
+    2 - Running the server
 npm run serve
 
 III - How to use the project :
