@@ -5,10 +5,10 @@ This project is the final exam of the Web Developping course that aims to develo
 http://lilian-sauvade-clevercloud.io
 
 II - How to install and run the project :
-  1 - Project setup
+    - Project setup
 npm install
 
-  2 - Running the server
+    - Running the server
 npm run serve
 
 III - How to use the project :
@@ -26,8 +26,8 @@ http://lilian-sauvade-clevercloud.io/swagger-ui/
 
 You will need to have an admin account to perform the different requests available on clever-cloud.
 To do so, enter the credentials :
-  - username : admin
-  - password : myAdmin
+    - username : admin
+    - password : myAdmin
 
 IV - Credits
 This project has been developped by Lilian SAUVADÉ, Leo HATSTATT, Mattéo LONGO.
