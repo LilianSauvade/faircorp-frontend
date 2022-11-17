@@ -1,6 +1,7 @@
 Project title : faircorp-frontend
 
 I - Project Description
+
 This project is the final exam of the Web Developping course that aims to develop the front-end of the faircorp application hosted on clever-cloud at: 
 http://lilian-sauvade-clevercloud.io
 
@@ -13,6 +14,7 @@ npm install
 npm run serve
 
 III - How to use the project :
+
 You just need to run the server on a command line interface.
 When the server is started, click on the link (usually http://localhost:8080/) and try the different available features.
 
@@ -32,4 +34,5 @@ To do so, enter the credentials :
 	- password : myAdmin
 
 IV - Credits
+
 This project has been developped by Lilian SAUVADÉ, Leo HATSTATT, Mattéo LONGO.
