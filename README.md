@@ -6,10 +6,10 @@ http://lilian-sauvade-clevercloud.io
 
 II - How to install and run the project :
 
-   1 - Project setup :\n
+	1 - Project setup :
 npm install
 
-   2 - Running the server :
+	2 - Running the server :
 npm run serve
 
 III - How to use the project :
