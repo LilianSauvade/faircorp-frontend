@@ -3,7 +3,7 @@ Project title : faircorp-frontend
 I - Project Description
 
 This project is the final exam of the Web Developping course that aims to develop the front-end of the faircorp application hosted on clever-cloud at: 
-http://lilian-sauvade-clevercloud.io
+http://lilian-sauvade.cleverapps.io/
 
 II - How to install and run the project :
 
@@ -25,7 +25,7 @@ When deleting, the application ask you to confirm your choice.
 
 
 If you want to have access to the application features, you can connect to this link :
-http://lilian-sauvade-clevercloud.io/swagger-ui/
+http://lilian-sauvade.cleverapps.io/swagger-ui/
 
 You will need to have an admin account to perform the different requests available on clever-cloud.
 To do so, enter the credentials :
