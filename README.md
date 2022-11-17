@@ -3,6 +3,7 @@ Project title : faircorp-frontend
 I - Project Description
 
 This project is the final exam of the Web Developping course that aims to develop the front-end of the faircorp application hosted on clever-cloud at: 
+
 http://lilian-sauvade.cleverapps.io/
 
 II - How to install and run the project :
