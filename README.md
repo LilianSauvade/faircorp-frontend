@@ -27,8 +27,8 @@ http://lilian-sauvade-clevercloud.io/swagger-ui/
 
 You will need to have an admin account to perform the different requests available on clever-cloud.
 To do so, enter the credentials :
-    - username : admin
-    - password : myAdmin
+	- username : admin
+	- password : myAdmin
 
 IV - Credits
 This project has been developped by Lilian SAUVADÉ, Leo HATSTATT, Mattéo LONGO.
